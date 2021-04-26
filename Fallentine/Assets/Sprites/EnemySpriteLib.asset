@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: EnemySpriteLib
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: goon
+    m_Hash: -1940805748
+    m_CategoryList:
+    - m_Name: up
+      m_Hash: 1133833840
+      m_Sprite: {fileID: -2933341648344306299, guid: c3d953ac72089624490e9e427989a080, type: 3}
+    - m_Name: down
+      m_Hash: 486510651
+      m_Sprite: {fileID: 125456069044304747, guid: c3d953ac72089624490e9e427989a080, type: 3}

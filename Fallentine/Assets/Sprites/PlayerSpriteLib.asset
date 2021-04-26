@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: PlayerSpriteLib
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: ready
+    m_Hash: 680887727
+    m_CategoryList:
+    - m_Name: east
+      m_Hash: 936633898
+      m_Sprite: {fileID: -3265051190242160545, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: south
+      m_Hash: 1091925364
+      m_Sprite: {fileID: -3878110928370339948, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: north
+      m_Hash: -601214782
+      m_Sprite: {fileID: -3685605631997809570, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: west
+      m_Hash: -892677662
+      m_Sprite: {fileID: 4519906737774995469, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: northeast
+      m_Hash: 804419552
+      m_Sprite: {fileID: 6048619372751833288, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: southeast
+      m_Hash: -1210389432
+      m_Sprite: {fileID: 683667351050980222, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: southwest
+      m_Hash: 1254349696
+      m_Sprite: {fileID: 583751112199032592, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: northwest
+      m_Hash: -756334552
+      m_Sprite: {fileID: -1247667193192107055, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+  - m_Name: loading
+    m_Hash: 1465923764
+    m_CategoryList:
+    - m_Name: east
+      m_Hash: 936633898
+      m_Sprite: {fileID: 1667828670049271058, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: south
+      m_Hash: 1091925364
+      m_Sprite: {fileID: 5662916658308862156, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: north
+      m_Hash: -601214782
+      m_Sprite: {fileID: -8973203066982583238, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: west
+      m_Hash: -892677662
+      m_Sprite: {fileID: 9047196339038985984, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: northeast
+      m_Hash: 804419552
+      m_Sprite: {fileID: -9054794127871187295, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: southeast
+      m_Hash: -1210389432
+      m_Sprite: {fileID: -3698694068425308911, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: southwest
+      m_Hash: 1254349696
+      m_Sprite: {fileID: -1336260489274861497, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}
+    - m_Name: northwest
+      m_Hash: -756334552
+      m_Sprite: {fileID: -3597504499002830043, guid: 48e7aa3c6a2cc144a99606668d5db69e, type: 3}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: ArrowSpriteLib
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: arrow
+    m_Hash: -667423170
+    m_CategoryList:
+    - m_Name: north
+      m_Hash: -601214782
+      m_Sprite: {fileID: 8816886408898176165, guid: 26e81314f5336824692bf0c94f683995, type: 3}
+    - m_Name: northwest
+      m_Hash: -756334552
+      m_Sprite: {fileID: 4793074969510804509, guid: 26e81314f5336824692bf0c94f683995, type: 3}
+    - m_Name: northeast
+      m_Hash: 804419552
+      m_Sprite: {fileID: 737259663583089233, guid: 26e81314f5336824692bf0c94f683995, type: 3}
+    - m_Name: south
+      m_Hash: 1091925364
+      m_Sprite: {fileID: 5248468730252472093, guid: 26e81314f5336824692bf0c94f683995, type: 3}
+    - m_Name: southwest
+      m_Hash: 1254349696
+      m_Sprite: {fileID: -7451953295746623981, guid: 26e81314f5336824692bf0c94f683995, type: 3}
+    - m_Name: southeast
+      m_Hash: -1210389432
+      m_Sprite: {fileID: 3839242804211812186, guid: 26e81314f5336824692bf0c94f683995, type: 3}
+    - m_Name: east
+      m_Hash: 936633898
+      m_Sprite: {fileID: -765150924802650856, guid: 26e81314f5336824692bf0c94f683995, type: 3}
+    - m_Name: west
+      m_Hash: -892677662
+      m_Sprite: {fileID: 4397636249099975194, guid: 26e81314f5336824692bf0c94f683995, type: 3}

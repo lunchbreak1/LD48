@@ -1,0 +1,52 @@
+{
+    "name": "VictoryScreenActions",
+    "maps": [
+        {
+            "name": "VictoryScreen",
+            "id": "8b8801d2-6516-47aa-8e1f-8b6c3887481f",
+            "actions": [
+                {
+                    "name": "Launch",
+                    "type": "Button",
+                    "id": "907353a3-123e-480f-a2b5-f0e7f868892d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Return",
+                    "type": "Button",
+                    "id": "da7edeb3-7b93-47f0-a8bf-f858632336b8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0007fafe-7b27-4c0f-a284-1f048ede6ef4",
+                    "path": "<Keyboard>/#(R)",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Launch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b4496268-52dc-4a49-95e0-39180b0975f2",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Return",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
